@@ -79,7 +79,7 @@ footer {
         top: 70px;
         left: -100%;
         background-color: #333;
-        transition: all 0.5s ease;
+        transition: all 1s ease;
     }
 
     .nav-links li {
@@ -93,5 +93,7 @@ footer {
     .nav-links.active {
         left: 0;
         display: flex;
+        align-items: center;
+        
     }
 }
