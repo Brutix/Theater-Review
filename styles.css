@@ -92,5 +92,6 @@ footer {
 
     .nav-links.active {
         left: 0;
+        display: flex;
     }
 }
